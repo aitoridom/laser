@@ -18,6 +18,7 @@
     "idf.flashType": "UART",
     "files.associations": {
         "freertos.h": "c",
-        "timer.h": "c"
+        "timer.h": "c",
+        "esp_types.h": "c"
     }
 }
